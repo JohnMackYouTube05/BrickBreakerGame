@@ -5,6 +5,7 @@ This game uses [a modified graphics fork of Tkinter, which was made by a group o
 
 ## Controls:
 A/D - Move Player Paddle Left/Right
+
 Left Click - Fire Ball
 
 ## How to Download
