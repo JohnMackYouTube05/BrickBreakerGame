@@ -13,9 +13,9 @@ class Brick(object):
         self.__y = y
         self.color = color
         self.brick = Rectangle(Point(self.__x, self.__y), Point(self.__x+50,self.__y+10))
-        self.doublePoints = False
+        self.doublePoints = True
 
-    def getX(self):
+     def getX(self):
         """Returns the brick's X coordinate."""
         return self.__x
 
